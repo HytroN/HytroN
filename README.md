@@ -1,7 +1,9 @@
 ## Hey, I'm Charlie Nielsen - aka HytroN! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-# [![GitHub](https://img.shields.io/badge/GitHub-HytroN-lightgrey?logo=github&style=for-the-badge)](https://github.com/HytroN) [![Discord](https://img.shields.io/badge/Discord-HytroN%234878-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/256670154287480832) [![Steam](https://img.shields.io/badge/Steam-HytroN_-222222?logo=steam&style=for-the-badge)](https://steamcommunity.com/id/HTNDK/)
+[![GitHub](https://img.shields.io/badge/GitHub-HytroN-lightgrey?logo=github&style=for-the-badge)](https://github.com/HytroN) [![Discord](https://img.shields.io/badge/Discord-HytroN%234878-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/256670154287480832) [![Steam](https://img.shields.io/badge/Steam-HytroN_-222222?logo=steam&style=for-the-badge)](https://steamcommunity.com/id/HTNDK/)
 
+<hr>
+<br>
 
 ![](https://imgur.com/iZ9DEha.png)
 

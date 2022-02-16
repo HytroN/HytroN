@@ -20,12 +20,13 @@
 
 <img align="left" width="26px" style="padding-right:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png" />
 
-<img align="left" width="26px" style="padding-right:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jquery/jquery.png" />
-
 <img align="left" width="26px" style="padding-right:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/dart/dart.png" />
 
 <img align="left" width="26px" style="padding-right:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />
 
-<img align="left" width="26px" style="padding-right:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />
+<!--<img align="left" width="26px" style="padding-right:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />
+
+<img align="left" width="26px" style="padding-right:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jquery/jquery.png" />
+-->
 
 
